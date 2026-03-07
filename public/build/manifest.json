@@ -1,0 +1,24 @@
+{
+  "_vendor-nWFottC5.js": {
+    "file": "assets/vendor-nWFottC5.js",
+    "name": "vendor"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CU6VZUV_.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DA4PGldB.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-nWFottC5.js"
+    ]
+  }
+}

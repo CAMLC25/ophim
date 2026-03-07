@@ -1,0 +1,27 @@
+{
+  "name": "ophim",
+  "version": "1.0.0",
+  "description": "Website xem phim online bằng Laravel 12 và OPhim API",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint resources/js --fix",
+    "format": "prettier --write resources/**/*.{js,blade.php,css}"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "alpinejs": "^3.13.3",
+    "autoprefixer": "^10.4.17",
+    "axios": "^1.6.5",
+    "laravel-vite-plugin": "^2.0.0",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "terser": "^5.46.0",
+    "vite": "^7.0.7"
+  },
+  "dependencies": {
+    "hls.js": "^1.4.15"
+  }
+}
