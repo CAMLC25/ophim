@@ -568,5 +568,5 @@ php artisan tinker
 ---
 
 **Phát triển bởi:** Senior Laravel Developer  
-**Website:** https://ophim.test  
+**Website:** https://cam-ophim.infinityfreeapp.com/
 **API:** https://ophim1.com
